@@ -11,21 +11,13 @@ voices them to taste. Every plan, drawing, script and measurement is free to reb
 
 ## Principles of sound exploration
 
-<table>
-<tr>
-<td width="44%" valign="top"><a href="https://1704audiolabs.github.io/"><img src="assets/principles.png" alt="The Principles of sound exploration poster: the belief and the four principles" width="100%"></a></td>
-<td valign="top">
-
 |  | **Precision** | **Character** |
 | --- | --- | --- |
 | **Foundation**<br><sub>what makes it possible</sub> | **Technical freedom**<br>DSP and affordable class D amps make every speaker reconfigurable. Crossovers, EQ and voicings change in software, so you are never locked in. | **Physical palette**<br>Box, open baffle, horn and subwoofer move air in physically different ways. Built as cheap DIY, they form a palette to combine, even in unusual ways. The room is part of the instrument. |
 | **Way of working**<br><sub>how to use it</sub> | **Measure to understand**<br>A calibrated microphone and real data make every experiment deliberate. Compare level-matched, because louder always sounds better. | **Taste decides**<br>No dogma. EQ, presets and voicings for different music or moods are legitimate. Changing your mind is part of the game. |
 
-<sub>The poster as a page, ready to print: **[1704audiolabs.github.io](https://1704audiolabs.github.io/)**</sub>
-
-</td>
-</tr>
-</table>
+<p align="center"><a href="https://1704audiolabs.github.io/"><img src="assets/principles.png" alt="The Principles of sound exploration poster: the belief and the four principles" width="420"></a><br>
+<sub>The poster as a page, ready to print: <a href="https://1704audiolabs.github.io/">1704audiolabs.github.io</a></sub></p>
 
 ## On a budget
 
