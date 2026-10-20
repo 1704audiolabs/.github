@@ -31,26 +31,14 @@ on measuring, and on listening.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://1704audiolabs.github.io/le-petit/"><img src="assets/le-petit.jpg" alt="The finished Le Petit pair in OSB" width="100%"></a>
-<br><sub>01 · after Jean Hiraga, 1983</sub>
-<h3>Le Petit</h3>
-Jean Hiraga's Le Petit from one sheet of OSB with an Aiyima 4″ driver: <b>flat within ±1 dB from 55 to 150 Hz</b>, tuned by measurement, one change at a time.
-<br><br>
-<a href="https://1704audiolabs.github.io/le-petit/">Website</a> ·
-<a href="https://1704audiolabs.github.io/le-petit/3d-model/">3D model</a> ·
-<a href="https://1704audiolabs.github.io/le-petit/one-sheet/">One-sheet</a> ·
-<a href="https://github.com/1704audiolabs/le-petit">Repository</a>
+<a href="https://1704audiolabs.github.io/le-petit/"><img src="assets/card-le-petit.jpg" alt="01 · Le Petit, after Jean Hiraga, 1983" width="100%"></a>
+<p>One sheet of OSB, a drain pipe and garden fleece — <b>flat within ±1 dB from 55 to 150 Hz.</b></p>
+<p><a href="https://1704audiolabs.github.io/le-petit/">Website</a> · <a href="https://1704audiolabs.github.io/le-petit/3d-model/">3D model</a> · <a href="https://1704audiolabs.github.io/le-petit/one-sheet/">One-sheet</a> · <a href="https://github.com/1704audiolabs/le-petit">Repository</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://1704audiolabs.github.io/le-petit-sub/"><img src="assets/le-petit-sub.jpg" alt="3D model of the sub between a Le Petit pair" width="100%"></a>
-<br><sub>02 · companion to Le Petit</sub>
-<h3>Le Petit Sub</h3>
-Le Petit's bigger twin: <b>a sealed subwoofer with two opposed 10″ drivers</b>, built from one sheet of OSB with exactly Le Petit's front.
-<br><br>
-<a href="https://1704audiolabs.github.io/le-petit-sub/">Website</a> ·
-<a href="https://1704audiolabs.github.io/le-petit-sub/3d-model/">3D model</a> ·
-<a href="https://1704audiolabs.github.io/le-petit-sub/one-sheet/">One-sheet</a> ·
-<a href="https://github.com/1704audiolabs/le-petit-sub">Repository</a>
+<a href="https://1704audiolabs.github.io/le-petit-sub/"><img src="assets/card-le-petit-sub.jpg" alt="02 · Le Petit Sub, companion to Le Petit" width="100%"></a>
+<p>Le Petit's bigger twin — <b>two opposed 10″ drivers in one sheet of OSB.</b></p>
+<p><a href="https://1704audiolabs.github.io/le-petit-sub/">Website</a> · <a href="https://1704audiolabs.github.io/le-petit-sub/3d-model/">3D model</a> · <a href="https://1704audiolabs.github.io/le-petit-sub/one-sheet/">One-sheet</a> · <a href="https://github.com/1704audiolabs/le-petit-sub">Repository</a></p>
 </td>
 </tr>
 </table>
