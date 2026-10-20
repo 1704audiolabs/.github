@@ -37,6 +37,7 @@ on measuring, and on listening.
 Jean Hiraga's Le Petit from one sheet of OSB with an Aiyima 4″ driver: <b>flat within ±1 dB from 55 to 150 Hz</b>, tuned by measurement, one change at a time.
 <br><br>
 <a href="https://1704audiolabs.github.io/le-petit/">Website</a> ·
+<a href="https://1704audiolabs.github.io/le-petit/3d-model/">3D model</a> ·
 <a href="https://1704audiolabs.github.io/le-petit/one-sheet/">One-sheet</a> ·
 <a href="https://github.com/1704audiolabs/le-petit">Repository</a>
 </td>
